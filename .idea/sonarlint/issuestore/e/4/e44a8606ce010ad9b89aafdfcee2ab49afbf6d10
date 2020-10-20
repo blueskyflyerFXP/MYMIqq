@@ -1,0 +1,21 @@
+
+D
+java:S1128".Remove this unused import 'myutils.JdbcUtils'.(ÕÞÿ˜
+G
+java:S1128",Remove this unused import 'dao.UserInfoDao'.(÷Þ•ªøÿÿÿÿ
+N
+java:S1854h"8Remove this useless assignment to local variable "user".(”ùßµ
+Q	java:S125j"<This block of commented-out lines of code should be removed.(¨•ŽÒ
+H
+java:S1128"-Remove this unused import 'mybeans.UserInfo'.(Ñ€½Ìÿÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(ËÓø
+V	java:S125$"<This block of commented-out lines of code should be removed.(û®„“úÿÿÿÿ
+‡
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Þýÿÿÿÿ
+?
+java:S1481h")Remove this unused "user" local variable.(”ùßµ
+0
+java:S1220""Move this file to a named package.
+F
+java:S1128"+Remove this unused import 'view.LoginView'.(Ú–êŽÿÿÿÿÿ
+Q	java:S125&"<This block of commented-out lines of code should be removed.(Ñßßõ

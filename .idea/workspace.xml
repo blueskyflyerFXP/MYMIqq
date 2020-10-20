@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1391454f-a74f-4927-8c8b-d94c09fcaaf3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ec2030d125d93ffbc26a6254c376e06d0bac53b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c5c2abc05e75daf87e5d896f0c1528ea106af1a0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee1dac1d5ac385848a4dde74335db55204dd163c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bufferFile/users.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/logo.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/my.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mynew.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/validatecode.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/Client.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/clientFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/client/clientThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/ChatInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/FriendInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/GroupInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/GroupsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/LoginInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UserInfoDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dao/UsersDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ChangeInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ShowFriend.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/ShowMsg.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/TransmitInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/commonFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/entity/userSpace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/interfaces/Translate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/ChatInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/FriendsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/GroupsInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/LoginInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/UserInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/mybeans/Users.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ImageByte.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ImageUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ImageUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/JdbcUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/MyBase64.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/MyMD5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/MySpring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/ObjectTranslate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/security.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/myutils/validateCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servers/Server.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servers/serverFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/servers/serverThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/BaseJframe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/ImageSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/LoginView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/btnInputPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/btnMsgInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/friendItemView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/friendShowPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/groupShowView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/imgInputPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/imgMsgInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/indexView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/inputPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/msgInputPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/msgItemView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/msgLookView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/msgShowPanel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/radioButtonGroup.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/registerView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/strHorizonalNav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/strVerticalNav.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/view/userDataView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/chatInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/friendsInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/groupInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/groups.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/loginInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/userInfo.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tables/users.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ClientObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ServerObjectTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/Client.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/clientFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/client/clientThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/ChatInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/FriendInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/GroupInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/GroupsDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/LoginInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/UserInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/dao/UsersDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/ChangeInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/ShowFriend.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/ShowMsg.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/TransmitInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/commonFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/entity/userSpace.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/interfaces/Translate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/ChatInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/FriendsInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/Groups.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/GroupsInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/LoginInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/mybeans/Users.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/ImageByte.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/ImageUtil.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/ImageUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/JdbcUtils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/MyBase64.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/MyMD5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/MySpring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/ObjectTranslate.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/security.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/myutils/validateCode.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servers/Server.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servers/serverFunc.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/servers/serverThread.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/BaseJframe.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ImageSelect$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ImageSelect$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ImageSelect$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/ImageSelect.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/LoginView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/LoginView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/LoginView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/btnInputPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/btnInputPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/btnMsgInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/friendItemView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/friendShowPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/groupShowView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/groupShowView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/imgInputPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/imgInputPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/imgMsgInput$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/imgMsgInput.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/indexView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/inputPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/inputPanel$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/inputPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/msgInputPanel$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/msgInputPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/msgItemView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/msgLookView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/msgShowPanel.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/radioButtonGroup.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/registerView$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/registerView$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/registerView$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/registerView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/strHorizonalNav.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/strVerticalNav.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/view/userDataView.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ClientObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/ServerObjectTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/Student.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="700f3138-4fc1-4369-92ad-7830225d904f" />
+  </component>
+  <component name="ProjectId" id="1Z7RImNPypq2Y3LdFLWFfs9yytA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq\src\main\java\myutils" />
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq\src\bufferFile" />
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq\src\images" />
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq\src\bufferFile" />
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq\src\main\java" />
+      <recent name="D:\文件分类存放\Project\idea-workspace\MYMIqq\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="client.Client" />
+      <module name="MYMIqq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoginView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.LoginView" />
+      <module name="MYMIqq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="servers.Server" />
+      <module name="MYMIqq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="servers.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="registerView" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="view.registerView" />
+      <module name="MYMIqq" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="view.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test" />
+      <module name="MYMIqq" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+        <item itemvalue="Application.registerView" />
+        <item itemvalue="Application.LoginView" />
+        <item itemvalue="Application.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1391454f-a74f-4927-8c8b-d94c09fcaaf3" name="Default Changelist" comment="" />
+      <created>1584188068446</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584188068446</updated>
+      <workItem from="1603181679886" duration="180000" />
+      <workItem from="1603182055249" duration="270000" />
+      <workItem from="1603182757747" duration="729000" />
+      <workItem from="1603183513030" duration="56000" />
+      <workItem from="1603183588697" duration="340000" />
+      <workItem from="1603183955552" duration="356000" />
+      <workItem from="1603184515666" duration="3330000" />
+      <workItem from="1603188232937" duration="272000" />
+      <workItem from="1603188536650" duration="508000" />
+      <workItem from="1603189081008" duration="158000" />
+      <workItem from="1603189296522" duration="229000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1603181702422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="620" y="304" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1603181702422" />
+    <state x="356" y="0" key="CommitChangelistDialog2" timestamp="1603189644707">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="356" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603189644707" />
+    <state x="549" y="170" key="FileChooserDialogImpl" timestamp="1603189427056">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="170" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1603189427056" />
+    <state x="593" y="326" width="373" height="180" key="Github.CreateGistDialog" timestamp="1603189330622">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="593" y="326" width="373" height="180" key="Github.CreateGistDialog/0.0.1536.824@0.0.1536.824" timestamp="1603189330622" />
+    <state x="643" y="308" width="388" height="217" key="Github.ShareDialog" timestamp="1603189220843">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="643" y="308" width="388" height="217" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1603189220843" />
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom" timestamp="1603188199498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1603188199498" />
+    <state width="1493" height="195" key="GridCell.Tab.0.center" timestamp="1603188199498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1603188199498" />
+    <state width="1493" height="195" key="GridCell.Tab.0.left" timestamp="1603188199498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1603188199498" />
+    <state width="1493" height="195" key="GridCell.Tab.0.right" timestamp="1603188199498">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="195" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1603188199498" />
+    <state x="511" y="125" key="RollbackChangesDialog" timestamp="1603189643900">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="511" y="125" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1603189643900" />
+    <state x="272" y="57" key="SettingsEditor" timestamp="1603189438428">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="272" y="57" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1603189438428" />
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2" timestamp="1603189518717">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="148" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603189518717" />
+  </component>
+  <component name="ideajad">
+    <property name="annotate" value="false" />
+    <property name="annotateFully" value="false" />
+    <property name="braces" value="false" />
+    <property name="clear" value="false" />
+    <property name="confirmNavigationTriggeredDecompile" value="true" />
+    <property name="dead" value="true" />
+    <property name="defaultInitializers" value="false" />
+    <property name="dissassemblerOnly" value="false" />
+    <property name="fieldsFirst" value="true" />
+    <property name="fileExtension" value="java" />
+    <property name="fullyQualifiedNames" value="false" />
+    <property name="indentation" value="4" />
+    <property name="intRadix" value="10" />
+    <property name="lineNumbersAsComments" value="true" />
+    <property name="longRadix" value="10" />
+    <property name="maxStringLength" value="64" />
+    <property name="nocast" value="false" />
+    <property name="noclass" value="false" />
+    <property name="nocode" value="false" />
+    <property name="noconv" value="false" />
+    <property name="noctor" value="false" />
+    <property name="nodos" value="false" />
+    <property name="nofd" value="false" />
+    <property name="noinner" value="false" />
+    <property name="nolvt" value="false" />
+    <property name="nonlb" value="false" />
+    <property name="outputDirectory" value="" />
+    <property name="packFields" value="3" />
+    <property name="packImports" value="7" />
+    <property name="prefixNumericalClasses" value="_cls" />
+    <property name="prefixNumericalFields" value="_fld" />
+    <property name="prefixNumericalLocals" value="_lcl" />
+    <property name="prefixNumericalMethods" value="_mth" />
+    <property name="prefixNumericalParameters" value="_prm" />
+    <property name="prefixUnusedExceptions" value="_ex" />
+    <property name="readonly" value="false" />
+    <property name="safe" value="false" />
+    <property name="sort" value="false" />
+    <property name="spaceAfterKeyword" value="false" />
+    <property name="splitStringsAtNewline" value="false" />
+    <property name="useTabs" value="false" />
+  </component>
+</project>

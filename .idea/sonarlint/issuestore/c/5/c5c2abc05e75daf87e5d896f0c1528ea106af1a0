@@ -1,0 +1,29 @@
+
+œ
+java:S1186&"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÙÒŸÓûÿÿÿÿ
+I
+java:S1481Ç"+Remove this unused "client" local variable.(·¶¢­8¤øÿ©Ô.
+“
+java:S1130B"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(”Ö€÷þÿÿÿÿ
+E
+java:S3740k"/Provide the parametrized type for this generic.(¾å¶
+T
+java:S1155n">Use isEmpty() to check whether the collection is empty or not.(µ­æ§
+X
+java:S1854Ç":Remove this useless assignment to local variable "client".(·¶¢­8¤øÿ©Ô.
+K
+java:S1481c"0Remove this unused "loginSocket" local variable.(Ì¥¤èÿÿÿÿÿ
+d	java:S100£"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Â­£Õ
+W	java:S125‰"<This block of commented-out lines of code should be removed.(àõ­Ãûÿÿÿÿ
+>
+java:S2189©""Add an end condition to this loop.(˜ïˆžÿÿÿÿÿ
+Ž
+java:S1130Y"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(‹Ñ Å
+R	java:S125·"<This block of commented-out lines of code should be removed.(ú½ßû
+s	java:S135e"YReduce the total number of break and continue statements in this loop to use at most one.(˜ïˆžÿÿÿÿÿ
+a	java:S112–"FDefine and throw a dedicated exception instead of using a generic one.(¢˜×ÿÿÿÿÿ
+Ž
+java:S1130^"xRemove the declaration of thrown exception 'java.net.UnknownHostException' which is a subclass of 'java.io.IOException'.(õþÜ—
+h
+java:S2095¬"LUse try-with-resources or close this "DatagramSocket" in a "finally" clause.(Éíòúýÿÿÿÿ
+W	java:S125É"<This block of commented-out lines of code should be removed.(µÅÎõüÿÿÿÿ
